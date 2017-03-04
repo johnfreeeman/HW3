@@ -1,0 +1,23 @@
+html {
+    background-color: lightgreen;
+}
+
+table {
+    margin:auto;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+head {
+    font-family: verdana;
+    font-size: 20px;
+}
+ 
+
